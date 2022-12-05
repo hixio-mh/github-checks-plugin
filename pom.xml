@@ -38,7 +38,7 @@
     <guava.version>29.0-jre</guava.version>
     <asm.version>8.0.1</asm.version>
     <json-unit-core.version>2.18.1</json-unit-core.version>
-    <http-client.version>4.5.12</http-client.version>
+    <http-client.version>4.5.14</http-client.version>
   </properties>
 
   <licenses>
